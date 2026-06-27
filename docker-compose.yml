@@ -1,0 +1,6 @@
+services:
+  notenest:
+    build: .
+    container_name: notenest
+    ports:
+      - "8080:80"

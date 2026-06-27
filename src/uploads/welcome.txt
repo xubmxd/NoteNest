@@ -1,0 +1,7 @@
+Welcome to NoteNest!
+
+Thank you for trying our beta.
+
+We built NoteNest to help developers,
+students, and creators organize ideas in
+a simple, distraction-free workspace.

@@ -1,0 +1,10 @@
+Product Roadmap
+
+Completed
+- Landing page
+- Public note viewer
+
+Upcoming
+- User accounts
+- Rich text editor
+- Search

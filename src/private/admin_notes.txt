@@ -1,0 +1,5 @@
+Internal Admin Notes
+
+TODO:
+- Validate file paths in view.php
+- Remove debug mode before deployment

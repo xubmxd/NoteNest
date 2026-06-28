@@ -1,7 +1,10 @@
 Welcome to NoteNest!
 
-Thank you for trying our beta.
+This workspace allows employees to securely store and access internal notes.
 
-We built NoteNest to help developers,
-students, and creators organize ideas in
-a simple, distraction-free workspace.
+Available documents:
+
+- Welcome Note
+- Changelog
+
+If you encounter any issues, please contact your system administrator.

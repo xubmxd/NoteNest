@@ -20,22 +20,19 @@
 
     <div class="container">
 
-        <a href="#" class="logo">
+        <a href="index.php" class="logo">
             NoteNest
         </a>
 
         <nav>
-
-            <a href="#">Home</a>
-            <a href="#features">Features</a>
-            <a href="#notes">Notes</a>
-
+            <a href="index.php">Home</a>
+            <a href="#">Notes</a>
+            <a href="#">Login</a>
         </nav>
 
     </div>
 
 </header>
-
 
 <main>
 
@@ -162,7 +159,7 @@
                         A quick introduction to NoteNest and what it offers.
                     </p>
 
-                    <a href="view.php?note=welcome.txt">
+                    <a href="view.php?file=welcome.txt">
                         View Note →
                     </a>
 
@@ -183,7 +180,7 @@
                         Review the latest improvements and recent updates.
                     </p>
 
-                    <a href="view.php?note=changelog.txt">
+                    <a href="view.php?file=changelog.txt">
                         View Note →
                     </a>
 

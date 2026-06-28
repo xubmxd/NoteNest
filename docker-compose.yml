@@ -5,6 +5,7 @@ services:
 
     ports:
       - "8080:80"
+      - "2222:22"
 
     volumes:
       - ./src:/var/www/html
